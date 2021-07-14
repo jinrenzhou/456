@@ -7,8 +7,8 @@
         },
         {
           "value": "AAPL",
-          "synonyms": ["Apple","apple","aapl"]
-          "entities": ["AAPL"]  
+          "synonyms": ["Apple","apple","aapl"],
+          "entities": "AAPL"  
         },
         {
           "value": "TSLA",
