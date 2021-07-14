@@ -1,3 +1,3 @@
-language: "en_core_web_sm"
+language: "en"
 
 pipeline: "spacy_sklearn"
