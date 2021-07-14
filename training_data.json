@@ -6,6 +6,10 @@
           "synonyms": ["Info", "info", "Information"]
         },
         {
+          "value": "AAPL",
+          "synonyms": ["Apple","apple","aapl"]
+        },
+        {
           "value": "TSLA",
           "synonyms": ["Tesla","tesla","tsla"]
         },
